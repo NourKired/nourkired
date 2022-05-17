@@ -1,8 +1,3 @@
----
-noteId: "4d82e840d5e311ec8c5611c41bd92369"
-tags: []
-
----
 
 <h1 align="center">Hi 👋, I'm KIRED Nour Elhouda</h1>
 <h3 align="center">A passionate of IA and Deep learning</h3>
