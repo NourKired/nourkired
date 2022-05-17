@@ -1,12 +1,10 @@
-
+[<img src="docs/Banner_okp4.png"/>](https://okp4.network)
 <h1 align="center">Hi 👋, I'm KIRED Nour Elhouda</h1>
 <h3 align="center">A passionate of IA and Deep learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourkired&label=Profile%20views&color=0e75b6&style=flat" alt="nourkired" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourkired" alt="nourkired" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nadakired3" target="blank"><img src="https://img.shields.io/twitter/follow/nadakired3?logo=twitter&style=for-the-badge" alt="nadakired3" /></a> </p>
 
 - 🔭 I’m currently working on **Personal data detection**
 
