@@ -1,4 +1,4 @@
-[<img src="docs/Banner_okp4.png"/>](https://okp4.network)
+[<img src="docs/Banner_okp4_new.png"/>](https://okp4.network)
 <h1 align="center">Hi 👋, I'm KIRED Nour Elhouda</h1>
 <h3 align="center">A passionate of IA and Deep learning</h3>
 
