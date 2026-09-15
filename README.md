@@ -1,3 +1,5 @@
+# Nour Elhouda Kired
+
 <p align="center">
   <img src="docs/profile-banner.svg" alt="Nour Elhouda Kired — R&D Engineer at Talan, Paris. PhD in Computer Science and AI." width="100%" />
 </p>
