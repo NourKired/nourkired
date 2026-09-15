@@ -1,6 +1,6 @@
 # Nour Elhouda Kired
 
-**R&D Engineer at Talan · PhD in Computer Science and AI**
+R&D Engineer at Talan · PhD in Computer Science and AI
 
 I connect AI research with practical software development, from experimentation to working prototypes.
 
