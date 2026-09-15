@@ -1,21 +1,37 @@
-# Nour Elhouda Kired
+<p align="center">
+  <img src="docs/profile-banner.svg" alt="Nour Elhouda Kired — R&D Engineer at Talan, Paris. PhD in Computer Science and AI." width="100%" />
+</p>
 
-R&D Engineer at Talan · PhD in Computer Science and AI
+<p align="center">
+  <a href="https://github.com/NourKired?tab=repositories">Explore my work</a> ·
+  <a href="mailto:nada.kired@gmail.com">Get in touch</a>
+</p>
 
-I connect AI research with practical software development, from experimentation to working prototypes.
+## About
 
-## Research & engineering
+I'm Nour, an **R&D Engineer at Talan**, based in **Paris, France**, with a **PhD in Computer Science and AI**.
 
-- Artificial intelligence and deep learning.
-- Personal data detection in heterogeneous datasets.
-- Conversational AI and AI maturity assessment.
+I connect AI research with practical software development: exploring ideas, building prototypes, and evaluating what works.
 
-## Toolkit
+## Research notebook
 
-Python · PyTorch · TensorFlow · scikit-learn · Pandas
+| Focus | What I explore |
+| :--- | :--- |
+| 🧠 Artificial intelligence | Deep learning and applied machine learning |
+| 🔎 Data understanding | Personal data detection in heterogeneous datasets |
+| 💬 Conversational AI | Adaptive interactions and AI maturity assessment |
 
-Neo4j · Elasticsearch · Kibana · Docker · Git
+## From research to code
 
-## Connect
+**Model & experiment**  
+`Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `Pandas`
 
-[GitHub](https://github.com/NourKired) · [Email](mailto:nada.kired@gmail.com)
+**Connect & explore**  
+`Neo4j` · `Elasticsearch` · `Kibana`
+
+**Build & share**  
+`Docker` · `Git`
+
+---
+
+<p align="center"><em>Research, experimentation, and useful software.</em></p>
